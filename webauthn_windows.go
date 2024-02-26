@@ -1,5 +1,4 @@
-//go:build windows
-// +build windows
+//go:build cgo
 
 // A simple wrapper around the Windows webauthn DLL
 package webauthn
